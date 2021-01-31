@@ -2,7 +2,8 @@
 
 # Altium Files
 altium/History
-altium/"Project Logs for DeskClock"
-altium/"Project Outputs for DeskClock"
+altium/Project*Logs*for*DeskClock
+altium/Project*Outputs*for*DeskClock
+altium/__Previews
 
 # MPLABX Files
